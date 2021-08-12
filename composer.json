@@ -1,0 +1,14 @@
+{
+    "name": "admin/projetofinal",
+    "description": "Projeto final utilizando BD,Composer,etc",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GabrielKulzer",
+            "email": "gabrielk.rodrigues@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
