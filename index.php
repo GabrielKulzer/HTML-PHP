@@ -39,7 +39,7 @@
 		    $('.modal').modal();
 		  });
 			</script>
-</header>
+</head>
 	<body>
 		<main class="geral">
 			<header>
